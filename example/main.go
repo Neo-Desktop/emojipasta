@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/xerosic/emojipasta"
+	"github.com/Neo-Desktop/emojipasta"
 )
 
 func main() {

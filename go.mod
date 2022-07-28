@@ -1,3 +1,3 @@
-module github.com/xerosic/emojipasta
+module github.com/Neo-Desktop/emojipasta
 
-go 1.16
+go 1.18
